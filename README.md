@@ -8,7 +8,7 @@ pip3 install -e lib/
 ```
 The library can then be imported in any _Python_ session:
 ```python3
-import ncbc
+import pbct
 ```
 
 Examples of usage can be found in `notebooks/test_pbct.ipynb`.
