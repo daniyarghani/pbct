@@ -1,6 +1,6 @@
 # Approximate learning of parsimonious Bayesian context trees
 
-This repository contains code used in the paper *Ghani, D., Heard, N. A. and Sanna Passino, F. (2024) "Approximate learning of parsimonious Bayesian context trees"*, available on [arXiv]().
+This repository contains code used in the paper *Ghani, D., Heard, N. A. and Sanna Passino, F. (2024) "Approximate learning of parsimonious Bayesian context trees"*, available on [arXiv](https://arxiv.org/abs/2407.19236).
 
 The library `pbct` can be installed in edit mode as follows:
 ```
